@@ -24,7 +24,7 @@ I learned that semantic elements are preferred to non-semantic and that they sho
 ## Usage
 
 The html and css file can be used to view the company website with web accessibility considerations applied. A link to the mockup is accessible from the repository file list. 
-![Mockup](assets/images/screenshot.png)
+![Mockup](02-Challenge/01-html-css-git-homework-demo.png)
 
 ## Credits
 
