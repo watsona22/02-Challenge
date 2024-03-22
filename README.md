@@ -1,10 +1,12 @@
-# 02-Challenge
+# Code Refactor
 
 ## Description
 
-The purpose of this challenge was to deploy a working Horiseon webpage with concise, semantic elements in the supporting HTML and CSS files. 
+This was an exercise in creating concise, semantic elements in the supporting HTML and CSS files. 
 
 The acceptance criteria were as follows: 
+## Acceptance Criteria
+```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -16,7 +18,7 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-
+```
 All acceptance criteria have been met and the site functions as expected. There are also acceptability features added in the form of alt text. 
 
 I learned that semantic elements are preferred to non-semantic and that they should be organized in a way that makes sense to future readers. Furthermore becuase the location of my files changed, I had to redirect file paths for images in the html and css style sheet. With the perspective of hindsight, I now know how to approach problems methodically and what kinds of things to look for. 
@@ -25,10 +27,6 @@ I learned that semantic elements are preferred to non-semantic and that they sho
 
 The html and css file can be used to view the company website with web accessibility considerations applied. A link to the mockup is accessible from the repository file list. 
 ![Horiseon Website Mockup](01-html-css-git-homework-demo.png)
-
-## Credits
-
-The project was completed with help from the course materials and organization elements discussed with the Bootcamp tutor, Sheetal Srikumar.
 
 ## License
 
